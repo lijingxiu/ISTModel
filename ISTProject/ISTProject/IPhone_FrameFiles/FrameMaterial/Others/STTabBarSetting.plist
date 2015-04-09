@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>STTabBarSetting</key>
+	<dict>
+		<key>Background</key>
+		<string>background0.png</string>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>HomePage</string>
+				<key>Title</key>
+				<string></string>
+				<key>TabBarNormal</key>
+				<string>menu1.png</string>
+				<key>TabBarSelected</key>
+				<string>menu1s.png</string>
+				<key>HomeNormal</key>
+				<string></string>
+				<key>HomeSelected</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Mine</string>
+				<key>Title</key>
+				<string></string>
+				<key>TabBarNormal</key>
+				<string>menu2.png</string>
+				<key>TabBarSelected</key>
+				<string>menu2s.png</string>
+				<key>HomeNormal</key>
+				<string></string>
+				<key>HomeSelected</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Setting</string>
+				<key>Title</key>
+				<string></string>
+				<key>TabBarNormal</key>
+				<string>menu3.png</string>
+				<key>TabBarSelected</key>
+				<string>menu3s.png</string>
+				<key>HomeNormal</key>
+				<string></string>
+				<key>HomeSelected</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
