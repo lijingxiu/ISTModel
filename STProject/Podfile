@@ -1,0 +1,35 @@
+
+=begin
+ 	pod 'IQKeyboardManager','~> 3.3.7'
+ 	pod 'MBProgressHUD', '~> 1.0.0'
+	pod 'AFNetworking', '~> 3.0'
+ 	pod 'YYText'
+ 	pod 'SIAlertView'
+ 	pod 'STNetwork', '~> 1.0.6'
+ 	pod 'SDWebImage', '~> 4.0'
+	pod 'FMDB', '~> 2.7.2'  
+	pod 'Masonry'   
+	pod 'TZImagePickerController'
+	pod 'ReactiveObjC'
+	pod 'DZNEmptyDataSet'
+	pod 'MLeaksFinder'
+	pod 'NYXImagesKit'
+	pod 'InputKit'
+	pod 'TPKeyboardAvoiding'
+	pod 'PNChart'
+	pod 'UMengUShare/UI'
+	pod ‘UMengUShare/Social/WeChat'
+	pod ‘UMengUShare/Social/QQ'
+	pod ‘UMengUShare/Social/Sina'
+	pod 'WMPageController'
+	pod 'UITableView+FDTemplateLayoutCell'
+
+=end
+
+
+target 'STProject' do
+    use_frameworks!
+
+  	pod 'MJRefresh', '~> 3.1.12'
+	
+end
